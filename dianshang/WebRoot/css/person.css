@@ -1,0 +1,75 @@
+/* CSS Document */
+
+*{
+		padding: 0;
+		margin: 0;
+	}
+	#page{
+		margin:0 auto;
+		align:center;
+		width:600px;
+		height:auto;
+	}
+	
+	.nav{
+		width:600px;
+		height:50px;
+	}
+	.nav a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:40px;
+		height:50px;
+		font-weight:700;
+		text-align:center;
+		line-height:40px;
+	}
+	.shoppingCar{
+		background:#FFFFFF;
+		text-align:center;
+		width:300px;
+		height:45px;
+		float:left;
+	}
+	.allorder{
+		text-align:center;
+		width:300px;
+		height:45px;
+		background:#7B7B7B;
+		float:left;
+	}
+	.allorder:hover{
+		width:300px;
+		height:45px;
+		background-color:#5ec5f2;
+	}
+	#footer{
+		width:600px;
+		height:50px;
+		
+		bottom:0;
+		
+	}
+	#footer a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:600px;
+		height:50px;
+		font-weight:700;
+		text-align:center;
+		line-height:40px;
+	}
+	.foot{
+		text-align:center;
+		width:600px;
+		height:50px;
+		background:#7B7B7B;
+	}
+	.foot:hover{
+		width:600px;
+		height:50px;
+		background-color:#FFFFFF;
+	}
+	

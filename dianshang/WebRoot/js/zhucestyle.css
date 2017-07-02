@@ -1,0 +1,42 @@
+*{
+		padding: 0;
+		margin: 0;
+	}
+	#page{
+		margin:0 auto;
+		align:center;
+		width:600px;
+		height:592px;
+		
+	}
+	
+	.login{
+		width:300px;
+		height:246px;
+		margin:auto;
+		padding-top:20px;
+		padding-left:15px;
+		
+	}
+	.logintop{
+		width:300px;
+		height:40px;
+		line-height:40px;
+		font-family:"свт╡";
+		
+	}
+	.logincont{
+		width:300px;
+		height:270px;
+		padding-top:15px;
+		
+	}
+	a{
+		font-family:microsoft yahei;
+		color:black;
+		width:40px;
+		height:50px;
+		text-align:center;
+		line-height:40px;
+	}
+

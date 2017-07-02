@@ -1,0 +1,130 @@
+*{
+		padding: 0;
+		margin: 0;
+	}
+	#page{
+		margin:0 auto;
+		align:center;
+		width:600px;
+		height:auto;
+	}
+	.top{
+		width:600px;
+		height:300px;
+		padding-bottom:5px;
+		}
+	.show{	
+		width:auto;
+		height:auto;
+		font-family:microsoft yahei;
+		color:black;
+		width:40px;
+		height:50px;
+		font-weight:700;
+	}
+	#xingxi{
+		width:600px;
+		height:50px;
+	}
+	<!--.prices{
+		width:300px;
+		height:auto;
+		float:left;
+	}
+	-->
+	table{
+		width:600px;
+		table-layout:fixed;
+	}
+	td{
+		overflow:hidden;
+	}
+	.price{
+		width:300px;
+		height:auto;
+		font-family:microsoft yahei;
+		color:red;
+		font-weight:700;
+		font-size:30px;
+	}
+	<!--.chandi{
+		width:300px;
+		height:auto;
+		float:right;
+		margin-top:12px;
+	}
+	-->
+	.STYLE1 {
+	font-size: 2em;
+	font-weight:500;
+	}
+	#pingjia{
+		width:600px;
+		height:auto;
+		border:3px solid #CCCCCC;
+	}
+	#pingjia a{
+		text-decoration:none;
+	}
+	.picture{
+		width:600px;
+		height:auto;	
+	}
+		
+	#foot{
+		border:2px solid black;
+		border-radius:5px;
+		text-align:center;
+		width:600px;
+		height:40px;
+		position:fixed;
+		bottom:0;
+	}
+	#foot a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:150px;
+		height:40px;
+		font-weight:800;
+		text-align:center;
+		line-height:40px;
+	}
+	.fanhui,.lianxi,.shoucang,.gouwuche,.buy{
+		width:117.9px;
+		height:40px;
+		float:left;
+		border:1px solid #999999;
+		background-color:#FFFFFF;
+	}
+	.fanhui:hover{
+		width:117.9px;
+		height:40px;
+		float:left;
+		background-color:#FFCC00;
+	}
+	.lianxi:hover{
+		width:117.9px;
+		height:40px;
+		float:left;
+		background-color:#FFCC00;
+	}
+	.shoucang:hover{
+		width:117.9px;
+		height:40px;
+		float:left;
+		background-color:#FF9900;
+	}
+	.gouwuche:hover{
+		width:117.9px;
+		height:40px;
+		float:left;
+		background-color:#FF6600;
+	}
+	.buy:hover{
+		width:117.9px;
+		height:40px;
+		float:left;
+		background-color:#FF6666;
+	}
+	

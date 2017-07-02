@@ -1,0 +1,75 @@
+*{
+		padding: 0;
+		margin: 0;
+	}
+	#page{
+		margin:0 auto;
+		align:center;
+		width:600px;
+		height:auto;
+	}
+	.top{
+		width:600px;
+		height:130px;
+		}
+	.dianpu{
+		width:600px;
+		height:90px;
+	}
+	.shoucang a{
+		width:600px;
+		height:40px;
+		font-size:16px;
+		font-weight:400;
+		text-decoration:none;
+	}
+	.shoucang{
+		width:600px;
+		height:40px;
+	}
+	.nav{
+		width:600px;
+		height:50px;
+	}
+	.nav a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:40px;
+		height:50px;
+		font-weight:700;
+		text-align:center;
+		line-height:40px;
+	}
+	.n1{
+		background:#7B7B7B;
+		text-align:center;
+		width:200px;
+		height:45px;
+		float:left;
+	}
+	.n2{
+		text-align:center;
+		width:200px;
+		height:45px;
+		background:#7B7B7B;
+		float:left;
+	}
+	.n3{
+		background:#FFFFFF;
+		text-align:center;
+		width:200px;
+		height:45px;
+		float:left;
+	}
+	.n1:hover{
+		width:200px;
+		height:45px;
+		background-color:#5ec5f2;
+	}
+	.n2:hover{
+		width:200px;
+		height:45px;
+		background-color:#5ec5f2;
+	}
+	

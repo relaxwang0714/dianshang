@@ -1,0 +1,158 @@
+*{
+		padding: 0;
+		margin: 0;
+	}
+	#page{
+		margin:0 auto;
+		align:center;
+		width:600px;
+		height:auto;
+	}
+/*
+	.top{
+		width:600px;
+		height:130px;
+		}
+	.dianpu{
+		width:600px;
+		height:90px;
+	}
+	.shoucang a{
+		width:600px;
+		height:40px;
+		font-size:16px;
+		font-weight:400;
+		text-decoration:none;
+	}
+	.shoucang{
+		width:600px;
+		height:40px;
+	}
+	.nav{
+		width:600px;
+		height:50px;
+	}
+	.nav a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:40px;
+		height:50px;
+		font-weight:700;
+		text-align:center;
+		line-height:40px;
+	}
+	.n1{
+		background:#FFFFFF;
+		text-align:center;
+		width:200px;
+		height:45px;
+		float:left;
+	}
+	.n2,.n3{
+		text-align:center;
+		width:200px;
+		height:45px;
+		background:#7B7B7B;
+		float:left;
+	}
+	.n2:hover{
+		width:200px;
+		height:45px;
+		background-color:#5ec5f2;
+	}
+	.n3:hover{
+		width:200px;
+		height:45px;
+		background-color:#5ec5f2;
+	}
+*/
+	#content{
+		width:600px;
+		height:auto;
+	}
+
+	#list{
+		width:600px;
+		height:auto;
+	}
+	#list img{
+		width:600px;
+	}
+	.STYLE1 {
+	font-size: 2em;
+	font-weight:500;
+	}
+	#list2{
+		width:600px;
+		height:auto;
+	}
+	#list2 img{
+		width:280px;
+		height:300px;
+	}
+	.l1{
+		margin:1px 8px 1px 4px;
+		width:290px;
+		height:auto;
+		border-radius:5px;
+		border:1px solid #FFFFFF;
+		float:left;
+	}
+	.l2{
+		margin:1px 0 1px 4px;
+		width:290px;
+		height:auto;
+		border-radius:5px;
+		border:1px solid #FFFFFF;
+		float:left;
+	}
+	.l1:hover{
+		border:1px solid #FF3333;
+	}
+	.l2:hover{
+		border:1px solid #FF3333;
+	}
+	#list2 a{
+		text-decoration:none;
+		color:#333333;
+	}
+	#list2 a:hover{
+		text-decoration:underline;
+		color:#FF0000;
+	}
+	.jiage{
+		width:600px;
+		height:auto;
+		font-family:microsoft yahei;
+		color:red;
+		font-weight:700;
+	}
+	#footer{
+		width:600px;
+		height:50px;
+		position:fixed;
+		bottom:0;
+		
+	}
+	#footer a{
+		text-decoration:none;
+		font-family:microsoft yahei;
+		color:black;
+		width:600px;
+		height:50px;
+		font-weight:700;
+		text-align:center;
+		line-height:40px;
+	}
+	.foot{
+		text-align:center;
+		width:600px;
+		height:50px;
+		background:#7B7B7B;
+	}
+	.foot:hover{
+		width:600px;
+		height:50px;
+		background-color:#FFFFFF;
+	}

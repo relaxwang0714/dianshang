@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+<title>无标题文档</title>
+<script src="js/jquery-3.1.1.min.js"></script>
+<script src="js/jquery.mobile-1.4.5.min.js"></script>
+<link href="js/jquery.mobile-1.4.5.min.css" rel="stylesheet" />
+<link href="css/loginstyle.css" rel="stylesheet" type="text/css" />
+</head>
+<!--  <script type="text/jscript">
+	function show(){
+	 alert("购买成功！");
+	}
+</script> -->
+<body onload="show()">
+	<div id="page" style="background-color:rgb(255,253,247);width:600;height:800">
+			<div class="login" align="center">
+				
+				<div class="logintop"><b>注册界面</b></h3></div>
+				
+				<div class="logincont">
+  				<form action="registerServlet" method="post" name="form">
+ 					<table align="center" width="300px" height="200px" cellpadding="10px">
+   
+   						<tr><td align="right">用户名称&nbsp;</td><td><input type="text" name="logname" required="required"></td></tr>
+   						<tr><td align="right">用户密码&nbsp;</td><td><input type="text" name="password" required="required"></td></tr>
+  						<tr><td align="right">重复密码&nbsp;</td><td><input type="text" name="again_password" required="required"></td></tr>
+   						<tr><td align="right">联系电话&nbsp;</td><td><input type="text" name="phone" required="required"></td></tr>
+   						<tr><td align="right">收货地址&nbsp;</td><td><input type="text" name="address" required="required"></td></tr>
+   						<tr><td align="right">真实姓名&nbsp;</td><td><input type="text" name="realname" required="required"></td>
+						</table>
+						<br />
+   						<input type="submit" name="submit" value="提&nbsp;交" style="width:200px;height:25px;background-color:rgb(133,183,68); font-weight:700;color:#FFFFFF">
+
+   
+   					</table>
+				</form>
+				</div>
+			</div>
+		
+	</div>
+	
+	
+ 
+</body>
+</html>
